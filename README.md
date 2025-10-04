@@ -1,2 +1,3 @@
 # INTROIA
-Este repositorio fue creado para la materia de IA. 
+
+Juan David Flechas Páez - 1007420007 - Bioingenieria 
